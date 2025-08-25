@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Formulario</h1>
+<form>
+    <label for="input_nome">Nome do Produto</label><br>
+    <input id="input_nome" type="text" placeholder="" required><br>
+<br>
+    <label for="input_preço">Preço</label><br>
+    <input id="input_preço" type="number" placeholder="" required><br>
+
+    <br>
+
+    <label for="input_fabricaçao">Data de Fabricação</label><br>
+    <input id="input_fabricaçao" type="date" placeholder="00/00/0000" required><br>
+
+    <br>
+
+    <label for="text_descriçao">descrição</label><br>
+    <textarea id="text_descriçao" cols="30" rows="20" required></textarea>
+<br><br>
+
+    <label for="Menu_Pais">Pais de fabricação</label><br>
+    <select id="Menu_Pais" required>
+            <option></option>
+            <option>Brasil</option>
+            <option>Espanha</option>
+            <option>França</option>
+            <option>China</option>
+            <option>Estados Unidos</option>
+  </select>
+
+  <br><br>
+    <label for="Menu_categorias">Categorias</label><br>
+    <select id="Menu_categorias" required>
+            <option></option>
+            <option>Eletrônicos</option>
+            <option>Livros</option>
+            <option>Esportes</option>
+            <option>Calçados</option>
+            <option>Brinquedos</option>
+  </select>
+
+<br><br>
+    <button type="submit">Salvar</button>
+    <button type="reset">Limpar</button>
+
+
+    </form>
+
+</body>
+</html>
