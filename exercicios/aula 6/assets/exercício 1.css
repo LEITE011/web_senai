@@ -1,0 +1,25 @@
+
+t {
+
+ text-align:center;
+
+}
+
+
+p {
+    color: red;
+}
+
+
+.text-vermelho{
+    color: white;
+    background: red;
+    display: inline;
+    font-size: 36px;
+    font-family: "arial";
+}
+
+body{
+    background-color: black;
+}
+
