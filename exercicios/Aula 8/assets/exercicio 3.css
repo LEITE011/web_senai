@@ -1,0 +1,65 @@
+.vermelho {
+    background-color: blue;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 35px;
+    color: white;
+}
+
+.vermelho .palavras {
+    font-size: 20px;
+}
+
+.azul {
+    background-color: lightblue;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.conteudo-azul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.texto {
+    padding-right: 20px;
+}
+
+.azul h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.azul ul {
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
+
+.img img {
+    max-height: 250px;
+    max-width: 150%;
+}
+
+.tres-azul {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tres-azul div {
+    border: 1px solid white;
+    margin: 20px;
+    padding: 20px;
+    height: 200px;
+    background-color: lightsteelblue;
+    flex: auto;
+}

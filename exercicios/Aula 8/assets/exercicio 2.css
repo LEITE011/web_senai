@@ -1,0 +1,46 @@
+.vermelho {
+    background-color: blue;
+    height: 48px;
+    width: 98%;
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+    font-size: 35px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.vermelho .palavras {
+    font-size: 28px;
+    text-align: right;
+
+}
+
+.azul {
+    background-color: lightblue;
+    height: 250px;
+    width: 100%;
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+}
+
+
+.tres-azul {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tres-azul div {
+    border: 1px solid white;
+    margin: 10px;
+    padding: 20px;
+    height: 200px;
+    width: 24%;
+    background-color: lightsteelblue;
+    flex: auto;
+}
+
+

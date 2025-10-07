@@ -1,0 +1,88 @@
+.vermelho {
+    background-color: blue;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    font-size: 35px;
+    color: white;
+}
+
+.vermelho .palavras {
+    font-size: 20px;
+}
+
+.azul {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.conteudo-azul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.texto {
+    padding-right: 20px;
+}
+
+.azul h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.azul ul {
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
+
+.img img {
+    max-height: 200px;
+    max-width: 100%;
+}
+
+.tres-azul {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tres-azul div {
+    margin: 10px;
+    padding: 10px;
+    height: 250px;
+    width: 24%;
+    background-color: lightsteelblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.tres-azul div img {
+    width: 60px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.tres-azul div h3 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.tres-azul div p {
+    font-size: 14px;
+    margin: 0;
+    padding: 0 10px;
+}

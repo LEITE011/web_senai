@@ -1,0 +1,66 @@
+.vermelho{
+    height: 70px;
+    width: 80%;
+    background-color: red;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+.azul_marinho{
+    height: 290px;
+    width: 80%;
+    background-color: aquamarine;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.pai-2-r {
+
+}
+
+.pai-2-r div{
+    height: 200px;
+    width: 24.8%;
+    background-color: cadetblue;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px black;
+    flex: auto;
+    text-align: center;
+}
+
+.pai-2-r div{
+    height: 200px;
+    width: 24.8%;
+    background-color: cadetblue;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px black;
+    flex: auto;
+    text-align: center;
+}
+
+.pai-2-r div{
+    height: 200px;
+    width: 24.8%;
+    background-color: cadetblue;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px black;
+    flex: auto;
+    text-align: center;
+}
+
+
+body{
+    text-align: center;
+}
+
+
+
