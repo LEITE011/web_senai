@@ -1,0 +1,79 @@
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: "Arial Black";
+    padding: 5.9px;
+
+
+}
+
+table {
+        margin: 0 auto;
+        font-size: 15px;
+
+}
+th {
+    background-color: mediumslateblue;
+}
+
+
+
+p {
+    font-size: 20px;
+    color: darkslateblue;
+}
+
+.verde {
+    color: green;
+    background-color: midnightblue;
+    text-align: center;
+
+}
+
+.azul_marinho {
+    color: aquamarine;
+    background-color: midnightblue;
+    text-align: center;
+
+}
+
+.amarelo {
+    color: yellow;
+    background-color: midnightblue;
+    text-align: center;
+
+}
+
+.branco {
+    color: white;
+    background-color: midnightblue;
+    text-align: center;
+
+}
+
+.vermelho {
+    color: red;
+    background-color: midnightblue;
+    text-align: center;
+
+}
+
+.todos {
+    color: aquamarine;
+    background-color: midnightblue;
+
+}
+
+.cor {
+    color: midnightblue;
+    background-color: aquamarine;
+
+}
+
+.cor_fundo {
+    background-color: white;
+}
+
+body {
+    background-color: black;
+}
