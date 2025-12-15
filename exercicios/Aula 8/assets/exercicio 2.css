@@ -4,7 +4,7 @@
     width: 98%;
     display: flex;
     margin: 10px;
-    padding: 20px;
+    padding: 10px;
     font-size: 35px;
     color: white;
     align-items: center;
@@ -23,7 +23,7 @@
     width: 100%;
     display: inline-block;
     margin: 10px;
-    padding: 20px;
+    padding: 10px;
 }
 
 
@@ -36,7 +36,7 @@
 .tres-azul div {
     border: 1px solid white;
     margin: 10px;
-    padding: 20px;
+    padding: 10px;
     height: 200px;
     width: 24%;
     background-color: lightsteelblue;
